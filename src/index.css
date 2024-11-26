@@ -1,0 +1,14 @@
+/* google font import [Poppins @ 200 - 600] */
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@100..900&family=Poppins:wght@200;300;400;500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
+}
+
+body {
+    width: 100vw;
+    overflow-x: clip;
+}
